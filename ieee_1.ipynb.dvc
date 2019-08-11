@@ -1,8 +1,0 @@
-md5: a76b7f0f00944db5a5c41aed81401cf9
-wdir: .
-outs:
-- md5: 8aa793d582ad2b61129c27c69fb48943
-  path: ieee_1.ipynb
-  cache: true
-  metric: false
-  persist: false
